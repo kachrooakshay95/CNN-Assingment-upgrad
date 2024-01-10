@@ -109,7 +109,7 @@ Based on our analysis choose a best multiclass classification model using a cust
 
 ## Contact
 
-Created by [@pravin691983] - feel free to contact me!
+Created by [@kachrooakshay95] - feel free to contact me!
 
 <!-- Optional -->
 <!-- ## License -->
